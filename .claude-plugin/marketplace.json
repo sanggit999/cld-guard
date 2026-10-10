@@ -1,0 +1,6 @@
+{
+  "name": "cld-guard",
+  "owner": { "name": "sanggit999" },
+  "description": "Plugin Claude Code cho repo webmgo (Remak MGO FireOFF).",
+  "plugins": [{ "name": "cld-guard", "source": "./" }]
+}

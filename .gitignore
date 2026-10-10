@@ -1,0 +1,3 @@
+# Claude Code tự sinh khi nạp mod (kiểu cho editor), không commit
+.claude-plugin/types/
+node_modules/

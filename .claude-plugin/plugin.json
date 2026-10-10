@@ -1,0 +1,7 @@
+{
+  "name": "cld-guard",
+  "version": "0.2.0",
+  "description": "Rào chắn cho repo webmgo: chặn code vi phạm sổ đen, chặn lệnh nguy hiểm, nhắc lint/build/test chưa chạy, gắn ngữ cảnh git + sổ đen vào prompt.",
+  "author": { "name": "sanggit999" },
+  "types": "./types/index.d.ts"
+}
